@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+rouge-score
+tqdm
+jupyter
+accelerate
+sentencepiece

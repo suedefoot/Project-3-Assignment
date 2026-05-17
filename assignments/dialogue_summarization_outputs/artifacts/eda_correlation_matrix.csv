@@ -1,0 +1,6 @@
+,dialogue_word_count,summary_word_count,compression_ratio,speaker_count,turn_count
+dialogue_word_count,1.0,0.604,-0.573,0.056,0.823
+summary_word_count,0.604,1.0,-0.022,0.037,0.537
+compression_ratio,-0.573,-0.022,1.0,-0.033,-0.581
+speaker_count,0.056,0.037,-0.033,1.0,0.055
+turn_count,0.823,0.537,-0.581,0.055,1.0

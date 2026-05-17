@@ -1,0 +1,68 @@
+id,dialogue,summary,split,dialogue_clean,summary_clean,dialogue_word_count,summary_word_count,compression_ratio,speaker_list,speaker_count,turn_count,dialogue_bin,summary_bin,stratum,subset_split,dialogue_prepared,summary_prepared,generated_summary,generated_summary_word_count,reference_summary_word_count,rouge1,rouge2,rougeL,rougeLsum,bleu,generated_summary_word_count,reference_summary_word_count
+13828119,"Damian: are you downtown?
+Ethan: yes
+Ethan: why?
+Damian: can you buy me a kebab?
+Damian: i'm starving
+Ethan: why won't you cook something for both of us, huh?
+Damian: man, give me a break, i had a rough day
+Ethan: ok ok
+Ethan: but i really wish you weren't such a parasite
+Damian: i'll change, scout's honour",Ethan will buy Damian a kebab. Damian had a bad day.,test,"Damian: are you downtown? Ethan: yes Ethan: why? Damian: can you buy me a kebab? Damian: i'm starving Ethan: why won't you cook something for both of us, huh? Damian: man, give me a break, i had a rough day Ethan: ok ok Ethan: but i really wish you weren't such a parasite Damian: i'll change, scout's honour",Ethan will buy Damian a kebab. Damian had a bad day.,58,11,0.1896551724137931,"['Damian', 'Ethan']",2,10,"(54.75, 74.0]","(9.0, 12.0]","(54.75, 74.0] | (9.0, 12.0]",test,"Damian: are you downtown?
+Ethan: yes
+Ethan: why?
+Damian: can you buy me a kebab?
+Damian: i'm starving
+Ethan: why won't you cook something for both of us, huh?
+Damian: man, give me a break, i had a rough day
+Ethan: ok ok
+Ethan: but i really wish you weren't such a parasite
+Damian: i'll change, scout's honour",Ethan will buy Damian a kebab. Damian had a bad day.,"""I don't think it's going to happen,"" he said. ""I think we're going to have to wait and see what happens.""
+
+He added: ""We're not going to be able to do anything about it. We've got to do what we have to do.""",43,11,0.0,0.0,0.0,0.0,0.0,43,11
+13819324,"Ursula: Haha I got a 93 on my French exam
+Bob: Well done girl!
+Jana: Wow 
+Jana: How did u manage to do that
+Ursula: I just studied hard for it
+Jana: omg
+Jana: French is so hard 
+Vaughn: I got a 65
+Vaughn: I didn't study for it haha
+Ursula: At least you passed
+Vaughn: Congrats! ","Ursula got 93 on her French exam. Vaughn got 65, but still passed.",test,Ursula: Haha I got a 93 on my French exam Bob: Well done girl! Jana: Wow Jana: How did u manage to do that Ursula: I just studied hard for it Jana: omg Jana: French is so hard Vaughn: I got a 65 Vaughn: I didn't study for it haha Ursula: At least you passed Vaughn: Congrats!,"Ursula got 93 on her French exam. Vaughn got 65, but still passed.",57,13,0.22807017543859648,"['Bob', 'Jana', 'Ursula', 'Vaughn']",4,11,"(54.75, 74.0]","(12.0, 14.0]","(54.75, 74.0] | (12.0, 14.0]",test,"Ursula: Haha I got a 93 on my French exam
+Bob: Well done girl!
+Jana: Wow 
+Jana: How did u manage to do that
+Ursula: I just studied hard for it
+Jana: omg
+Jana: French is so hard 
+Vaughn: I got a 65
+Vaughn: I didn't study for it haha
+Ursula: At least you passed
+Vaughn: Congrats!","Ursula got 93 on her French exam. Vaughn got 65, but still passed.","""I don't know what to say to that,"" he said. ""I'm not sure what to do. I don't think I'm going to be able to do it. I'm not going to do that.""
+
+He added: ""I think it's going to take some time. I think",45,13,0.0,0.0,0.0,0.0,0.0,45,13
+13730685,"Cole: hey roomie XD XD
+Luis: dude we are in the SAME DAMN ROOM
+Cole: its funny XD
+Luis: -_-
+Cole: pass me my pillow xD
+Luis: not until you say it to my face
+Cole: dude cmon 
+Luis: ...
+Cole: oh youre not gonna talk to your roommate now
+Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
+Cole: xD",Cole and Luis are sitting in the same room and yet they're texting each other. ,test,Cole: hey roomie XD XD Luis: dude we are in the SAME DAMN ROOM Cole: its funny XD Luis: -_- Cole: pass me my pillow xD Luis: not until you say it to my face Cole: dude cmon Luis: ... Cole: oh youre not gonna talk to your roommate now Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_- Cole: xD,Cole and Luis are sitting in the same room and yet they're texting each other.,69,15,0.21739130434782608,"['Cole', 'Luis']",2,11,"(54.75, 74.0]","(14.0, 18.0]","(54.75, 74.0] | (14.0, 18.0]",test,"Cole: hey roomie XD XD
+Luis: dude we are in the SAME DAMN ROOM
+Cole: its funny XD
+Luis: -_-
+Cole: pass me my pillow xD
+Luis: not until you say it to my face
+Cole: dude cmon 
+Luis: ...
+Cole: oh youre not gonna talk to your roommate now
+Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
+Cole: xD",Cole and Luis are sitting in the same room and yet they're texting each other.,"""I don't know if I'm going to be able to do it,"" he said. ""I'm not sure if I can do it. I don't think I can.""
+
+He added: ""I think it's going to take some time. I think it will take a lot of time.",46,15,0.0,0.0,0.0,0.0,0.0,46,15

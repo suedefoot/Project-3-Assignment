@@ -1,0 +1,8 @@
+metric,mean_score
+rouge1,0.08495073166623554
+rouge2,0.008793481622715288
+rougeL,0.06779105515132013
+rougeLsum,0.07058694825987159
+bleu,0.005177092771617575
+generated_summary_word_count,46.06
+reference_summary_word_count,19.33

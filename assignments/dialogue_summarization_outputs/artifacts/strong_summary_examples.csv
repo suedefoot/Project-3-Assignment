@@ -1,0 +1,72 @@
+id,dialogue,summary,split,dialogue_clean,summary_clean,dialogue_word_count,summary_word_count,compression_ratio,speaker_list,speaker_count,turn_count,dialogue_bin,summary_bin,stratum,subset_split,dialogue_prepared,summary_prepared,generated_summary,generated_summary_word_count,reference_summary_word_count,rouge1,rouge2,rougeL,rougeLsum,bleu,generated_summary_word_count,reference_summary_word_count
+13828477,"Grace: i didn't get to talk to you a lot at the party last night
+Audrey: i know, i really wanted to catch up with you! :-(
+Audrey: what's going on in your life?
+Audrey: anything new?
+Grace: not really, i'm excited about graduating soon
+Grace: i think i'll apply for grad school but i'm still not sure
+Audrey: you always have liked school lol
+Grace: i've also thought of taking a year off
+Audrey: that also sounds like a good idea!!!
+Audrey: let me know when you make up your mind lol",Grace and Audrey didn't manage to talk at yesterday's party. Grace is about to graduate. She doesn't know if she will apply for a grad school or take a gap year.,test,"Grace: i didn't get to talk to you a lot at the party last night Audrey: i know, i really wanted to catch up with you! :-( Audrey: what's going on in your life? Audrey: anything new? Grace: not really, i'm excited about graduating soon Grace: i think i'll apply for grad school but i'm still not sure Audrey: you always have liked school lol Grace: i've also thought of taking a year off Audrey: that also sounds like a good idea!!! Audrey: let me know when you make up your mind lol",Grace and Audrey didn't manage to talk at yesterday's party. Grace is about to graduate. She doesn't know if she will apply for a grad school or take a gap year.,93,31,0.3333333333333333,"['Audrey', 'Grace']",2,10,"(74.0, 96.0]","(26.0, 33.0]","(74.0, 96.0] | (26.0, 33.0]",test,"Grace: i didn't get to talk to you a lot at the party last night
+Audrey: i know, i really wanted to catch up with you! :-(
+Audrey: what's going on in your life?
+Audrey: anything new?
+Grace: not really, i'm excited about graduating soon
+Grace: i think i'll apply for grad school but i'm still not sure
+Audrey: you always have liked school lol
+Grace: i've also thought of taking a year off
+Audrey: that also sounds like a good idea!!!
+Audrey: let me know when you make up your mind lol",Grace and Audrey didn't manage to talk at yesterday's party. Grace is about to graduate. She doesn't know if she will apply for a grad school or take a gap year.,"""I don't know what to say to that,"" he said. ""I'm not sure what to do. I don't think I'm going to be able to do it.""
+
+He added: ""I think it's going to take some time. I think it will take a lot of time.",46,31,0.21176470588235294,0.048192771084337345,0.16470588235294117,0.18823529411764706,0.011125382292406935,46,31
+13862683,"Drade: Mum he got out of the group chatting room
+Marenda: I am sure he is angry!
+Marenda: Why did you act that aggressively?
+Marenda: You know your brother's temper
+Drade: I just said what he had said was wrong!
+Marenda: Apologize and send the invitation to him
+Drade: Why should I?
+Drade: I didn't say anything wrong!!!!!
+Drade: He failed in his business, didn't he?
+Marenda: But did you have to talk about it?
+Drade: He acted like an asshole first
+Marenda: Language! No need to talk about it more","Drade told her brother in the group chatting room that what he had said was wrong. Marenda thinks that he got out of it because he became angry, as he is short-tempered. Drade refuses to apologise and invite him again, since she feels that she is not the one to be blamed but him.",test,"Drade: Mum he got out of the group chatting room Marenda: I am sure he is angry! Marenda: Why did you act that aggressively? Marenda: You know your brother's temper Drade: I just said what he had said was wrong! Marenda: Apologize and send the invitation to him Drade: Why should I? Drade: I didn't say anything wrong!!!!! Drade: He failed in his business, didn't he? Marenda: But did you have to talk about it? Drade: He acted like an asshole first Marenda: Language! No need to talk about it more","Drade told her brother in the group chatting room that what he had said was wrong. Marenda thinks that he got out of it because he became angry, as he is short-tempered. Drade refuses to apologise and invite him again, since she feels that she is not the one to be blamed but him.",91,54,0.5934065934065934,"['Drade', 'Marenda']",2,12,"(74.0, 96.0]","(33.0, 58.0]","(74.0, 96.0] | (33.0, 58.0]",test,"Drade: Mum he got out of the group chatting room
+Marenda: I am sure he is angry!
+Marenda: Why did you act that aggressively?
+Marenda: You know your brother's temper
+Drade: I just said what he had said was wrong!
+Marenda: Apologize and send the invitation to him
+Drade: Why should I?
+Drade: I didn't say anything wrong!!!!!
+Drade: He failed in his business, didn't he?
+Marenda: But did you have to talk about it?
+Drade: He acted like an asshole first
+Marenda: Language! No need to talk about it more","Drade told her brother in the group chatting room that what he had said was wrong. Marenda thinks that he got out of it because he became angry, as he is short-tempered. Drade refuses to apologise and invite him again, since she feels that she is not the one to be blamed but him.","""I think it's important for us to be able to do that,"" he said. ""I think that's what we're going to have to do.""
+
+He added: ""We've got a lot of work ahead of us. We've got to do what we can to make sure that we're",47,54,0.25925925925925924,0.05660377358490566,0.18518518518518517,0.18518518518518517,0.010375242363014507,47,54
+13680757,"Greg: Hi, honey. I need to stay after hours :-(
+Betsy: Again?
+Greg: I'm sorry!
+Betsy: What about Johnny?
+Greg: Well, could you pick him up? 
+Betsy: What if I can't?
+Greg: Betsy?
+Betsy: What if I can't?
+Greg: Can't you, really?
+Betsy: I can't. Today I need to work long hours as well. Tuesdays are your days in the kindergarten.
+Greg: Talk to you later. I'll see what I can do.
+Betsy: You'd better think of something.
+Greg: Oh. Just stop it now.","Greg and Betsy have a lot of work today, so they cannot pick up Johnny from the kindergarten. However, it's Greg's turn to do it. Greg will try to find a solution.",test,"Greg: Hi, honey. I need to stay after hours :-( Betsy: Again? Greg: I'm sorry! Betsy: What about Johnny? Greg: Well, could you pick him up? Betsy: What if I can't? Greg: Betsy? Betsy: What if I can't? Greg: Can't you, really? Betsy: I can't. Today I need to work long hours as well. Tuesdays are your days in the kindergarten. Greg: Talk to you later. I'll see what I can do. Betsy: You'd better think of something. Greg: Oh. Just stop it now.","Greg and Betsy have a lot of work today, so they cannot pick up Johnny from the kindergarten. However, it's Greg's turn to do it. Greg will try to find a solution.",84,32,0.38095238095238093,"['Betsy', 'Greg']",2,13,"(74.0, 96.0]","(26.0, 33.0]","(74.0, 96.0] | (26.0, 33.0]",test,"Greg: Hi, honey. I need to stay after hours :-(
+Betsy: Again?
+Greg: I'm sorry!
+Betsy: What about Johnny?
+Greg: Well, could you pick him up? 
+Betsy: What if I can't?
+Greg: Betsy?
+Betsy: What if I can't?
+Greg: Can't you, really?
+Betsy: I can't. Today I need to work long hours as well. Tuesdays are your days in the kindergarten.
+Greg: Talk to you later. I'll see what I can do.
+Betsy: You'd better think of something.
+Greg: Oh. Just stop it now.","Greg and Betsy have a lot of work today, so they cannot pick up Johnny from the kindergarten. However, it's Greg's turn to do it. Greg will try to find a solution.","""I think it's important for us to be able to do that,"" he said. ""I think that's what we're trying to do. I think we're going to continue to work on that.""",32,32,0.19999999999999998,0.05882352941176471,0.17142857142857143,0.17142857142857143,0.015514392335273455,32,32

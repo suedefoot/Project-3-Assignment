@@ -1,0 +1,16 @@
+{
+  "eda_summary_statistics": "dialogue_summarization_outputs/artifacts/eda_summary_statistics.csv",
+  "representative_subsets": {
+    "train": "dialogue_summarization_outputs/artifacts/train_representative_subset.csv",
+    "validation": "dialogue_summarization_outputs/artifacts/validation_representative_subset.csv",
+    "test": "dialogue_summarization_outputs/artifacts/test_representative_subset.csv"
+  },
+  "representativeness_summary": "dialogue_summarization_outputs/artifacts/representativeness_summary.csv",
+  "training_history": "dialogue_summarization_outputs/artifacts/training_history.csv",
+  "generated_summaries": "dialogue_summarization_outputs/artifacts/generated_summaries.csv",
+  "evaluation_metrics_summary": "dialogue_summarization_outputs/artifacts/evaluation_metrics_summary.csv",
+  "evaluation_metrics_by_example": "dialogue_summarization_outputs/artifacts/evaluation_metrics_by_example.csv",
+  "error_analysis_summary": "dialogue_summarization_outputs/artifacts/error_analysis_summary.csv",
+  "figures_directory": "dialogue_summarization_outputs/figures",
+  "best_model_checkpoint": "dialogue_summarization_outputs/checkpoints/best_model"
+}

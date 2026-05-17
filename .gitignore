@@ -1,0 +1,28 @@
+# Hugging Face / Transformers model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Cache directories
+.cache/
+huggingface/
+hf_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store

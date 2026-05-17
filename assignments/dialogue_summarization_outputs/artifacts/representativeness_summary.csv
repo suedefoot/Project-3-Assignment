@@ -1,0 +1,7 @@
+dataset,n,dialogue_words_mean,dialogue_words_median,summary_words_mean,summary_words_median,compression_ratio_mean,speaker_count_mean
+train_full,14731,93.793,73.0,20.318,18.0,0.296,2.393
+train_subset,3000,93.662,73.0,20.305,18.0,0.297,2.417
+validation_full,818,91.642,70.0,20.284,18.0,0.301,2.386
+validation_subset,500,91.08,69.0,20.298,18.0,0.305,2.382
+test_full,819,95.508,74.0,20.017,18.0,0.29,2.359
+test_subset,500,95.324,74.0,20.058,18.0,0.291,2.362
